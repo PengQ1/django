@@ -1,7 +1,7 @@
 import os
 import sys
 from distutils.sysconfig import get_python_lib
-
+# django test
 from setuptools import find_packages, setup
 
 CURRENT_PYTHON = sys.version_info[:2]
